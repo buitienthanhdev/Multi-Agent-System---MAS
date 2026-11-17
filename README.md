@@ -1,7 +1,7 @@
-# Multi-Agent-System (MAS) — Nền tảng Điều hành Công việc bằng AI Đa Tác Nhân
+# ATLAS — Nền tảng Điều hành Công việc bằng AI Đa Tác Nhân
 
 Thư mục dự án: `C:\Users\TIEN THANH\Desktop\ATLAS AI`  
-GitHub Repository: [Multi-Agent-System (MAS)](https://github.com/buitienthanhdev/Multi-Agent-System-MAS)
+GitHub Repository: https://github.com/buitienthanhdev/Multi-Agent-System---MAS
 
 ## 1. Cấu trúc Monorepo
 

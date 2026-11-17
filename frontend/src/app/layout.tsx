@@ -17,8 +17,8 @@ const jetbrainsMono = JetBrains_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Multi-Agent-System (MAS) — Nền tảng điều hành công việc bằng AI đa tác nhân",
-  description: "Multi-Agent-System (MAS) — Universal AI Agent Community & Mission Control Platform",
+  title: "ATLAS AI — Nền tảng điều hành công việc bằng AI đa tác nhân",
+  description: "Multi-Agent Mission Control & Closed-Loop Business Execution Platform",
 };
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
