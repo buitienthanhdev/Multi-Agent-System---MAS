@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+.venv/
+.pytest_cache/
+backend/var/
+node_modules/
+frontend/.next/
+frontend/out/
+.env
+*.tar.gz
