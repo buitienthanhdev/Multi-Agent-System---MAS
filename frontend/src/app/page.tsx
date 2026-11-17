@@ -822,7 +822,7 @@ export default function AtlasCleanWorkspace() {
             </div>
             <div>
               <div style={{ display: "flex", alignItems: "center", gap: 8 }}>
-                <span style={{ fontSize: 16, fontWeight: 700, color: "#0f172a" }}>ATLAS AI</span>
+                <span style={{ fontSize: 16, fontWeight: 700, color: "#0f172a" }}>Multi-Agent-System (MAS)</span>
                 <span
                   style={{
                     background: "#f1f5f9",
